@@ -1,0 +1,5 @@
+{
+    "OPENAI_PROJECT_ID": "api-project-id-here",
+    "OPENAI_ORG_ID": "api-organization-id-here",
+    "OPENAI_API_KEY": "api-key-here"
+}

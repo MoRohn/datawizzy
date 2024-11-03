@@ -1,2 +1,7 @@
 .env
-../
+config.json
+__pycache__/
+conversation_history.json
+.python-version
+tokenizers/
+tokenizers/.
